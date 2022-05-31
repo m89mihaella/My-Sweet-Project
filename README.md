@@ -1,4 +1,4 @@
-# My-Sweet-Project
+# My Sweet Project
 
 
 >This Project allow you to control the data-bus in your device.
@@ -20,31 +20,31 @@ Take a look first at the official websit of [my Project](https://github.com/) fo
 
 1. **Update the System packages.**
    
-```sudo apt update``` 
+```sh sudo apt update``` 
 
 
 2. **Upgrade the System packages.**
 
-```sudo apt upgrade```
+```sh sudo apt upgrade```
 
 
-_Note: Use -y_ as an argument to accept changes.
+***Note***: Use -y_ as an argument to accept changes.
 
 3. **Reload Services.**
    
-```sudo service reload ```
+```sh sudo service reload ```
 
 4. **Delete all the content from tmp folder**
    
-```sudo rm -rf /tmp/*```
+```sh sudo rm -rf /tmp/*```
 
 5. **Reload services.**
 
-```sudo systemctl daemon-reload```
+```sh sudo systemctl daemon-reload```
 
 6. **Reboot System.**
 
-```sudo reboot```
+```sh sudo reboot```
 
 <br>
 
@@ -52,7 +52,11 @@ _Note: Use -y_ as an argument to accept changes.
 >After this steps in Terminal, try to type ```ls``` in Terminal, Mongo shell should appear and ready to execute mongo commands
 
 >You may use in terminal mongo shell, by typing in terminal:  ```mongosh``` 
- 
+<br>
+
+![Readme.md](https://icons.iconarchive.com/icons/icons8/windows-8/16/Data-List-icon.png) Readme.md
+
+______
  
 ### Windows
  Just Download the Executable file and follow the instaliation wizard to install it.
