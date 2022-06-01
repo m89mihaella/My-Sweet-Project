@@ -36,7 +36,9 @@ Take a look first at the official websit of [my Project](https://github.com/) fo
 
 4. **Delete all the content from tmp folder**
    
-```sh sudo rm -rf /tmp/*```
+```sh 
+sudo rm -rf /tmp/*
+```
 
 5. **Reload services.**
 
@@ -54,7 +56,7 @@ Take a look first at the official websit of [my Project](https://github.com/) fo
 >You may use in terminal mongo shell, by typing in terminal:  ```mongosh``` 
 <br>
 
-![Readme.md](https://icons.iconarchive.com/icons/icons8/windows-8/16/Data-List-icon.png) Readme.md
+![Readme.md](https://icons.iconarchive.com/icons/icons8/windows-8/16/Data-List-icon.png) **Readme.md**
 
 ______
  
